@@ -3,7 +3,7 @@
 ![I am a Software Engineer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am a dedicated and passionate Software Engineer with a strong focus on coding, problem-solving, and developing innovative solutions that make a positive impact. 
-
+I have 1.5 years of professional experience as a Software Engineer specializing in Laravel, gained from working with two reputable software companies in Bangladesh. Recently, I have expanded my skill set by learning Django to leverage its scalability. I am now eager to explore AI and Machine Learning technologies, with the goal of integrating them to enhance user experience and build more intelligent applications.
 I thrive in collaborative environments and am committed to contributing my skills and creativity as part of a dynamic team or organization. My goal is to continuously grow as a professional while using my talents to create scalable, reliable, and impactful software solutions that improve lives and transform industries.
 
 ## 🌐 Socials:
@@ -14,9 +14,9 @@ I thrive in collaborative environments and am committed to contributing my skill
 
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Akbar014&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akbar014&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akbar014&theme=graywhite&hide_border=false" />
+    <img style="width:30%" src="https://github-readme-stats.vercel.app/api?username=Akbar014&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false" />
+    <img style="width:30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akbar014&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    <img style="width:30%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akbar014&theme=graywhite&hide_border=false" />
 </div>
 
 
@@ -30,4 +30,4 @@ I thrive in collaborative environments and am committed to contributing my skill
 - 🌱 I’m currently learning Advanced algorithms and data structures to sharpen my problem-solving skills. 
 - 👯 I’m looking to collaborate on Open-source projects that aim to solve real-world problems or improve existing tools. 
 - 🤔 I’m looking for help with Scaling applications to handle large datasets or high traffic efficiently. 
-- 📫 How to reach me: Email: [your email address] LinkedIn: [your LinkedIn profile URL] GitHub: [your GitHub profile URL] 
+- 📫 How to reach me: Email: akbar.cse47@gmail.com

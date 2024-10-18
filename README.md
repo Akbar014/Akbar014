@@ -1,9 +1,9 @@
-### Hi there 👋, my name is Md. Ali Akbar
-#### I am a Software Engineer 
+### Hi there 👋, Nice to meet you here.
+#### Software Engineer | Problem Solver | AI & ML Enthusiast
 ![I am a Software Engineer ](https://raw.githubusercontent.com/Akbar014/Akbar014/refs/heads/main/github%20Cover%20Image.png)
 
-I am a dedicated and passionate Software Engineer with a strong focus on coding, problem-solving, and developing innovative solutions that make a positive impact. 
-I have 1.5 years of professional experience as a Software Engineer specializing in Laravel, gained from working with two reputable software companies in Bangladesh. Recently, I have expanded my skill set by learning Django to leverage its scalability. I am now eager to explore AI and Machine Learning technologies, with the goal of integrating them to enhance user experience and build more intelligent applications.
+I am a dedicated and passionate Software Engineer with a strong focus on coding, problem-solving, and developing innovative solutions that make a positive impact. <br>
+I have 1.5 years of professional experience as a Software Engineer specializing in Laravel, gained from working with two reputable software companies in Bangladesh. Recently, I have expanded my skill set by learning Django to leverage its scalability. I am now eager to explore AI and Machine Learning technologies, with the goal of integrating them to enhance user experience and build more intelligent applications. <br>
 I thrive in collaborative environments and am committed to contributing my skills and creativity as part of a dynamic team or organization. My goal is to continuously grow as a professional while using my talents to create scalable, reliable, and impactful software solutions that improve lives and transform industries.
 
 ## 🌐 Socials: 

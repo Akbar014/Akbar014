@@ -14,9 +14,9 @@ I thrive in collaborative environments and am committed to contributing my skill
 
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: center; align-items: center; gap: 30px;">
-    <img style="width:30%" src="https://github-readme-stats.vercel.app/api?username=Akbar014&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false" />
+    <img style="width:33%" src="https://github-readme-stats.vercel.app/api?username=Akbar014&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false" />
     <img style="width:30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akbar014&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-    <img style="width:30%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akbar014&theme=graywhite&hide_border=false" />
+    <img style="width:33%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akbar014&theme=graywhite&hide_border=false" />
 </div>
 
 
